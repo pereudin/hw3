@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">hw3</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="unsubscribe">Unsubscribe</string>
 </resources>
